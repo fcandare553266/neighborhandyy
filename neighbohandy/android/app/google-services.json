@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319785910228",
+    "project_id": "neighborhandydb",
+    "storage_bucket": "neighborhandydb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319785910228:android:fa992e5f4caff6160de041",
+        "android_client_info": {
+          "package_name": "com.example.neighbohandy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAubwyKiVfe_NXF9hrJSLQk1k4Fk4gwuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

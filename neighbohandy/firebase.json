@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "neighborhandydb",
+          "appId": "1:319785910228:android:fa992e5f4caff6160de041",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "neighborhandydb",
+          "configurations": {
+            "android": "1:319785910228:android:fa992e5f4caff6160de041",
+            "web": "1:319785910228:web:5e4657505a35d25c0de041"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

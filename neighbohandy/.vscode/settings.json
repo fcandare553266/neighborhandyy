@@ -1,0 +1,8 @@
+{
+  "java.import.exclusions": [
+    "**/android/**"
+  ],
+  "java.project.resourceFilters": [
+    "**/android/**"
+  ]
+}
